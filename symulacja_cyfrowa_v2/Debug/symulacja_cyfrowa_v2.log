@@ -1,0 +1,5 @@
+﻿  source.cpp
+c:\users\marcin\desktop\symulacja cyfrowa 2017\symulacja_cyfrowa_v2_backup_28_05_test\symulacja_cyfrowa_v2\source.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marcin\desktop\symulacja cyfrowa 2017\symulacja_cyfrowa_v2_backup_28_05_test\symulacja_cyfrowa_v2\source.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marcin\desktop\symulacja cyfrowa 2017\symulacja_cyfrowa_v2_backup_28_05_test\symulacja_cyfrowa_v2\source.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  symulacja_cyfrowa_v2.vcxproj -> C:\Users\Marcin\Desktop\Symulacja Cyfrowa 2017\symulacja_cyfrowa_v2_backup_28_05_test\Debug\symulacja_cyfrowa_v2.exe
